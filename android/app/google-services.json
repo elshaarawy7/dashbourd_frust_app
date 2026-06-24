@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "918827884307",
+    "project_id": "shopex-130e8",
+    "storage_bucket": "shopex-130e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918827884307:android:a990025977d7575d0c44e6",
+        "android_client_info": {
+          "package_name": "com.example.dashbourd_fruts_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918827884307-es7itt0145g2a9stb19t5i6em7dpthab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ysfocNx2Gq8cblXoaH-7jpFcHkC3q5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918827884307-es7itt0145g2a9stb19t5i6em7dpthab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918827884307-9bfui3hqa737qd8tu13pfm124opaci57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashbourdFrutsHub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918827884307:android:c104abc62937ffde0c44e6",
+        "android_client_info": {
+          "package_name": "com.example.shope_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918827884307-e1div3p8t2mcprlr8biv021n66otqhtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shope_x",
+            "certificate_hash": "bdd779ce859428142083637377c47e65eebf9bd1"
+          }
+        },
+        {
+          "client_id": "918827884307-es7itt0145g2a9stb19t5i6em7dpthab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ysfocNx2Gq8cblXoaH-7jpFcHkC3q5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918827884307-es7itt0145g2a9stb19t5i6em7dpthab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918827884307-9bfui3hqa737qd8tu13pfm124opaci57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashbourdFrutsHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
